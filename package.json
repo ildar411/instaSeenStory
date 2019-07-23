@@ -1,0 +1,23 @@
+{
+  "name": "instamy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "goose-chrome-environment": "^1.1.4",
+    "goose-parser": "^0.6.1",
+    "jquery": "^3.4.1",
+    "js-sleep": "^1.0.0",
+    "knex": "^0.18.1",
+    "mysql": "^2.17.1",
+    "nightmare": "^3.0.2",
+    "phantomjs-prebuilt": "^2.1.16"
+  }
+}
